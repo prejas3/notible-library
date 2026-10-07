@@ -1,0 +1,30 @@
+{
+  "strings": {
+    "Library": "Biblioteka",
+    "New library item": "Nowa pozycja",
+    "Title": "Tytuł",
+    "Kind": "Rodzaj",
+    "Status": "Status",
+    "Tag": "Tag",
+    "All kinds": "Wszystkie rodzaje",
+    "All statuses": "Wszystkie statusy",
+    "All tags": "Wszystkie tagi",
+    "Rating": "Ocena",
+    "Sort": "Sortowanie",
+    "Recently updated": "Ostatnio zmienione",
+    "Book": "Książka",
+    "Film": "Film",
+    "Series": "Serial",
+    "Game": "Gra",
+    "Other": "Inne",
+    "Wishlist": "Lista życzeń",
+    "In progress": "W trakcie",
+    "Done": "Ukończone",
+    "Dropped": "Porzucone",
+    "Add": "Dodaj",
+    "Choose cover": "Wybierz okładkę",
+    "No items yet": "Nie ma jeszcze żadnych pozycji",
+    "Grid": "Siatka",
+    "List": "Lista"
+  }
+}

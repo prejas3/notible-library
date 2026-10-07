@@ -1,0 +1,14 @@
+{
+  "id": "notible.library",
+  "name": "Library",
+  "version": "0.1.0",
+  "apiVersion": "1.27",
+  "minCoreVersion": "0.95.1",
+  "entry": "main.js",
+  "styles": ["styles.css"],
+  "description": "Keep books, films, series and games in one rated collection.",
+  "author": "Notible",
+  "permissions": ["data.read", "data.write", "media.read", "media.write", "workspace.ui"],
+  "locales": { "pl": "locales/pl.json" },
+  "sync": "data"
+}
